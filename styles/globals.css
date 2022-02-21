@@ -1,19 +1,33 @@
+/* root */
 ::selection {
-  background: #50E3C2;
+  background: #FF0080 !important;
 }
 
 ::moz-selection {
-  background: #50E3C2;
+  background: #FF0080 !important;
 }
 
+code {
+  color: #79FFE1 !important;
+}
+
+code::before{
+  content: "`";
+}
+
+code::after {
+  content: "`";
+}
+/* end root */
+
 body {
-  font-family: -apple-system, "Inter";
+  font-family: -apple-system, "Space Mono";
   background: #000;
   color: #fff;
 }
 
 /* Navbar */
-.nav {
+nav {
   border-radius: 4px;
   color: aliceblue !important;
   background-color: rgba(0, 0, 0, 0.2) !important;
@@ -21,4 +35,30 @@ body {
   backdrop-filter: blur(10px) saturate(125%);
   -webkit-backdrop-filter: blur(10px) saturate(125%);
 }
+
+.logo h5 {
+  font-weight: 700;
+}
 /* end navbar */
+
+/* profile */
+.profile {
+  border-radius: 50%;
+}
+/* end profile */
+
+/* footer */
+.btn-footer::selection {
+  background-color: #FF0080;
+  color: #fff;
+}
+
+.btn-footer {
+  text-decoration: none;
+  color: #FF0080;
+}
+
+.btn-footer:hover {
+  color: #fff;
+}
+/* end footer */
