@@ -18,9 +18,6 @@ module.exports = {
         13: '3.25rem',
         14: '3.5rem',
       },
-      fontFamily: {
-        sans: ['Space Mono', ...defaultTheme.fontFamily.mono],
-      },
       colors: {
         primary: colors.teal,
         gray: colors.neutral,
