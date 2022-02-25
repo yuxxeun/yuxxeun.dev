@@ -47,11 +47,11 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
             </div>
           </header>
           <div
-            className="divide-y my-5 divide-gray-200 pb-8 dark:divide-gray-700 xl:grid xl:grid-cols-4 xl:gap-x-6 xl:divide-y-0"
+            className="my-5 divide-y divide-gray-200 pb-8 dark:divide-gray-700 xl:grid xl:grid-cols-4 xl:gap-x-6 xl:divide-y-0"
             style={{ gridTemplateRows: 'auto 1fr' }}
           >
             <div className="divide-y divide-gray-200 dark:divide-gray-700 xl:col-span-full xl:row-span-2 xl:pb-0">
-              <div className="prose w-full max-w-full pt-12 pb-8 xl:text-lg dark:prose-dark">{children}</div>
+              <div className="prose w-full max-w-full pt-12 pb-8 dark:prose-dark xl:text-lg ">{children}</div>
             </div>
           </div>
         </div>

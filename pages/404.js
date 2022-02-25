@@ -15,12 +15,12 @@ export default function FourZeroFour() {
       </div>
       <div className="max-w-md">
         <p className="mb-4 text-xl font-bold leading-normal md:text-2xl">
-          Unavailable For Legal Reasons
+          {`Unavailable For Legal Reasons`}
         </p>
         <p className="mb-8">
-        Mengapa menampilkan 404 secara umum ketika gue bisa membuatnya sedikit terlihat misterius?
+          {`Mengapa menampilkan 404 secara umum ketika gue bisa membuatnya sedikit terlihat misterius?`}
         <br/><br/>
-        <span className="italic">I'm guessing you spelled something wrong. <br/>Can u double check that <b>URL?</b></span>
+        <span className="italic">{`I'm guessing you spelled something wrong.`} <br/>{`Can u double check that`} <b>{`URL?`}</b></span>
         </p>
         <Link href="/">
           <button className="text-black inline rounded-lg border px-4 py-2 text-sm font-medium leading-5 dark:text-white">

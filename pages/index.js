@@ -3,7 +3,7 @@ import { PageSEO } from '@/components/SEO'
 import siteMetadata from '@/data/siteMetadata'
 import { getAllFilesFrontMatter } from '@/lib/mdx'
 import formatDate from '@/lib/utils/formatDate'
-import Image from "next/image"
+import Image from 'next/image'
 
 const MAX_DISPLAY = 5
 
@@ -18,7 +18,7 @@ export default function Home({ posts }) {
     <>
       <PageSEO title={siteMetadata.title} description={siteMetadata.description} />
       <div className="">
-        <div className="space-y-2 mb-8 text-center pt-6 pb-8 md:space-y-5">
+        <div className="mb-8 space-y-2 text-center pt-6 pb-8 md:space-y-5">
             <Image className="rounded-full" src="/static/images/avatar.jpeg" alt="avatar" height={180} width={180} priority />
           <p className="text-lg leading-7 text-black dark:text-white">
             {siteMetadata.description}
