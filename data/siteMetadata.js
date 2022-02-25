@@ -2,10 +2,10 @@ const siteMetadata = {
   title: 'yuxxeun®',
   author: 'yuxxeun',
   headerTitle: '',
-  description: 'say something to the world',
+  description: 'thoughts, stories and ideas i guess',
   book: 'https://yuxxeun.github.io/book',
   language: 'en-us',
-  theme: 'system', // system, dark or light
+  theme: 'system',
   siteUrl: 'https://yuxxeun.dev',
   siteRepo: 'https://github.com/yuxxeun/yuxxeun.dev',
   siteLogo: '/static/images/logo.png',
