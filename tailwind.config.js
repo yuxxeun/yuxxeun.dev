@@ -19,7 +19,7 @@ module.exports = {
         14: '3.5rem',
       },
       fontFamily: {
-        mono: ['Space Mono', ...defaultTheme.fontFamily.mono],
+        mono: ['"Space Mono"', ...defaultTheme.fontFamily.mono],
       },
       colors: {
         primary: colors.teal,
