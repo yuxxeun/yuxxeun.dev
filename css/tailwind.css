@@ -2,6 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer base {
+  html {
+    font-family: 'Space Mono';
+  }
+}
+
 .task-list-item::before {
   @apply hidden;
 }
