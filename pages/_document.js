@@ -12,7 +12,7 @@ class MyDocument extends Document {
           <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
           <link href="https://fonts.googleapis.com/css2?family=Space+Mono&display=swap" rel="stylesheet" />
         </Head>
-        <body className="bg-white text-black antialiased dark:bg-black dark:text-white">
+        <body className="bg-white font-mono text-black antialiased dark:bg-black dark:text-white">
           <Main />
           <NextScript />
         </body>
