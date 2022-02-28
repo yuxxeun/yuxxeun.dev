@@ -16,18 +16,18 @@ Kesan pertama yang gue dapat dari si `VS Code` (by default) ini relative beranta
 
 ## Tema
 Biar perubahannya terlihat sedikit signifikan, gue ubah temanya terlebih dahulu.
-Sejujurnya untuk tema ini sifatnya _optional_ ya, lo bisa pakai tema sesuai keinginan lo. Tapi untuk gue, belakangan gue suka menggunakan tema [`Pink Cat Boo`](https://) buatannya Fiona Fan, entah kenapa gue suka aja sama kombinasi warna yang dipakai. Selain tema tersebut gue menggunakan juga menggunakan [`Dracula`](https://) in case biar bisa gonta-ganti gitu ceritanya.
+Sejujurnya untuk tema ini sifatnya _optional_ ya, lo bisa pakai tema sesuai keinginan lo. Tapi untuk gue, belakangan gue suka menggunakan tema [`Pink Cat Boo`](https://marketplace.visualstudio.com/items?itemName=ftsamoyed.theme-pink-cat-boo) buatannya Fiona Fan, entah kenapa gue suka aja sama kombinasi warna yang dipakai. Selain tema tersebut gue menggunakan juga menggunakan [`Dracula`](https://) in case biar bisa gonta-ganti gitu ceritanya.
 
 ## Font
 Oke cukup membahas temanya, sekarang kita pindah ke font.
 
 Karena kegiatan kita berhubungan dengan tulisan, gue rasa akan cukup membosankan jika harus berhadapan dengan font bernama  ehm... `Comic Sans`, benar?
-Maka dari itu gue memakai `JetBrains Mono` yang bisa lo dapatkan juga [di sini](https://), seperti halnya tema gue juga punya "cadangan" kalau dirasa bosan dengan font ini. Font cadangan tersebut gue pakai [`Fira Code`](https://).
+Maka dari itu gue memakai `JetBrains Mono` yang bisa lo dapatkan juga [di sini](https://www.jetbrains.com/lp/mono/), seperti halnya tema gue juga punya "cadangan" kalau dirasa bosan dengan font ini. Font cadangan tersebut gue pakai [`Fira Code`](https://github.com/tonsky/FiraCode).
 
 ## Ikon
 Ini sebenarnya engga penting-penting banget, cuman lucu aja kalau kita pakai. So why not?
 
-Gue pakai [`Viking Icon Theme`](https://).
+Gue pakai [`Viking Icon Theme`](https://marketplace.visualstudio.com/items?itemName=willi84.vikings-icon-theme).
 
 ## Setting (s)
 Pindah ke _settings_ (`ctrl + ,`), perubahan yang gue lakukan di sini lumayan banyak dan ini juga yang membuat `VS Code` gue terlihat sedikit lebih bersih.
