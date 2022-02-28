@@ -4,8 +4,10 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
 
-html {
-  font-family: 'Space Mono' !important;
+@layer base {
+  body {
+    font-family: 'Space Mono', mono;
+  }
 }
 
 ::selection {
