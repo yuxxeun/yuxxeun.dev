@@ -6,11 +6,11 @@ const siteMetadata = {
   book: 'https://yuxxeun.github.io/edgyLibrary',
   language: 'en-us',
   theme: 'system',
-  siteUrl: 'https://yuxxeun.dev',
+  siteUrl: 'https://yuxxeun.vercel.app',
   siteRepo: 'https://github.com/yuxxeun/yuxxeun.dev',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.jpeg',
-  socialBanner: '/static/images/twitter-card.png',
+  socialBanner: '/static/images/gradient.jpg',
   locale: 'en-US',
   analytics: {  
     plausibleDataDomain: '', // e.g. tailwind-nextjs-starter-blog.vercel.app
