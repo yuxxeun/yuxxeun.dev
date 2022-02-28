@@ -16,7 +16,7 @@ Kesan pertama yang gue dapat dari si `VS Code` (by default) ini relative beranta
 
 ## Tema
 Biar perubahannya terlihat sedikit signifikan, gue ubah temanya terlebih dahulu.
-Sejujurnya untuk tema ini sifatnya _optional_ ya, lo bisa pakai tema sesuai keinginan lo. Tapi untuk gue, belakangan gue suka menggunakan tema [`Pink Cat Boo`](https://marketplace.visualstudio.com/items?itemName=ftsamoyed.theme-pink-cat-boo) buatannya Fiona Fan, entah kenapa gue suka aja sama kombinasi warna yang dipakai. Selain tema tersebut gue menggunakan juga menggunakan [`Dracula`](https://) in case biar bisa gonta-ganti gitu ceritanya.
+Sejujurnya untuk tema ini sifatnya _optional_ ya, lo bisa pakai tema sesuai keinginan lo. Tapi untuk gue, belakangan gue suka menggunakan tema [`Pink Cat Boo`](https://marketplace.visualstudio.com/items?itemName=ftsamoyed.theme-pink-cat-boo) buatannya Fiona Fan, entah kenapa gue suka aja sama kombinasi warna yang dipakai. Selain tema tersebut gue menggunakan juga menggunakan [`Dracula`](https://draculatheme.com/visual-studio-code) in case biar bisa gonta-ganti gitu ceritanya.
 
 ## Font
 Oke cukup membahas temanya, sekarang kita pindah ke font.
