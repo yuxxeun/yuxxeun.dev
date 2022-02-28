@@ -1,5 +1,5 @@
 const headerNavLinks = [
-  { href: 'https://yuxxeun.github.io/book', title: 'bookmarks' },
+  { href: 'https://yuxxeun.github.io/edgyLibrary', title: 'bookmarks' },
 ]
 
 export default headerNavLinks
