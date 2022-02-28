@@ -10,6 +10,14 @@
   }
 }
 
+::selection {
+  background-color: #FF0080;
+}
+
+::-moz-selection {
+  background-color: #FF0080;
+}
+
 .task-list-item::before {
   @apply hidden;
 }
