@@ -3,7 +3,7 @@ const siteMetadata = {
   author: 'yuxxeun',
   headerTitle: '',
   description: 'thoughts, stories and ideas i guess',
-  book: 'https://yuxxeun.github.io/book',
+  book: 'https://yuxxeun.github.io/edgyLibrary',
   language: 'en-us',
   theme: 'system',
   siteUrl: 'https://yuxxeun.dev',
