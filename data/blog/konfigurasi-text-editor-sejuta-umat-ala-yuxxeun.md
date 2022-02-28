@@ -45,11 +45,11 @@ Beberapa perubahan yang gue lakukan:
 
 Dan inilah hasil akhirnya:
 
-![Look mom, this is my visual studio code!](/static/blog/vscode.PNG)
+![Look mom, this is my visual studio code!](/static/images/vscode.PNG)
 
 In case untuk memastikan tampilannya lebih bersih, gue mencoba membuka satu file.
 
-![In case memastikan lebih bersih](/static/blog/image.PNG)
+![In case memastikan lebih bersih](/static/images/image.PNG)
 
 Ya not bad dan lebih bersih gue rasa.
 
