@@ -8,7 +8,7 @@ images: []
 layout: PostLayout
 ---
 
-Gue tipe orang yang konsumtif, dan gue rasa hampir semua orang juga konsumtif. 
+Gue tipe orang yang konsumtif, dan gue rasa hampir semua orang juga konsumtif.
 Bedanya, ada yang melakukan kegiatan konsumsi karena memang benar-benar butuh dan yang engga butuh-butuh banget.
 
 Konsumtif, less produktif, at least worth.
@@ -22,13 +22,15 @@ Apakah pengeluaran 50 ribu tersebut worth dengan apa yang sudah gue lakukan?
 Well, selama gue produktif gue akan memaafkan diri gue yang konsumtif ini.
 
 ## Cashback
+
 Gue bukan tipe orang yang gila cashback, tapi akhir-akhir ini enjoy menggunakan cashback, intinya cashback gue anggap sebagai "thank you" dari suatu layanan karena telah menggunakan layanan tersebut.
 Ambil contoh kalau gue menggunakan go-pay dan mendapatkan cashback sebesar ~20% bila gue menggunakan aplikasi go-pay, go-pay ngasih gue 10 ribu sebagai tanda terima kasih karena gue telah menggunakan aplikasi mereka untuk ber-transaksi sekitar 50 ribu.
 
 Cashback bukanlah hal yang permanent, namun selagi ada program cashback ya kenapa engga dinikmati?
 
 ## Health?
-Oke-oke gue cuman membicarakan tentang output belum tentang efek. 
+
+Oke-oke gue cuman membicarakan tentang output belum tentang efek.
 Dan inilah alasan mengapa gue memilih menggunakan kata pintar daripada cerdas, kalau lo cerdas lo pasti mempertimbangkan beberapa hal juga, sebagai contoh: faktor kesehatan, ekonomi negara dunia ketiga dan sebagainya.
 
 Oke-oke berlebihan ya, mari kita persingkat ke kesehatan.
@@ -43,10 +45,11 @@ Misal apa yang kita hasilkan tersebut menyebabkan hal lain ㅡjatuh sakit misaln
 Hampir setiap hari gue berurusan dengan hal tidak sehat, baik secara langsung seperti merokok ataupun tidak langsung terserah mau lo namain apa.
 Jadi, untuk apa membicarakan buruknya neraka jika kita sedang tinggal di dalamnya?
 
-Kalau lo hidup sehat by default, faktor kesehatan mungkin harus lo pertimbangkan untuk hari ini atau untuk hari yang akan datang.
+Kalau lo hidup sehat by design, faktor kesehatan mungkin harus lo pertimbangkan untuk hari ini atau untuk hari yang akan datang.
 Apalah gue yang tidak sehat ini ya, meskipun selalu bermimpi untuk hidup sehat.
 
 ## Terukur
+
 Hal terakhir yang ingin gue bahas adalah terukur.
 Kalau gue bisa mengukur apakah layak 50 ribu something + duduk berjam-jam di suatu warkop random per hari dengan apa yang gue hasilkan, harusnya gue bisa mengukur hal lain juga; pengeluaran untuk itu misalnya.
 
