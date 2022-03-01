@@ -2,7 +2,7 @@
 title: Menjadi konsumen pintar
 date: '2022-03-01'
 tags: []
-draft: true
+draft: false
 summary: ...setidaknya lebih pintar...
 images: []
 layout: PostLayout
@@ -36,7 +36,7 @@ Oke-oke berlebihan ya, mari kita persingkat ke kesehatan.
 Meskipun kopi seharga 50 ribu kita anggap worth dengan 2 tulisan baru dan 5 task resolved, namun apakah efek yang ada di dalam kopi tersebut worth terhadap diri lo?
 Misal, efek kafein, gula dan sebagianya.
 
-*Percuma* - sengaja gue tekankan.
+*Percuma* ㅡ sengaja gue tekankan.
 
 Misal apa yang kita hasilkan tersebut menyebabkan hal lain -jatuh sakit misalnya-, sejujurnya gue tidak terlalu peduli. Ingat, tidak terlalu bukan berarti tidak ya.
 
