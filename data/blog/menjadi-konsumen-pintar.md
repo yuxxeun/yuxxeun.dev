@@ -55,4 +55,4 @@ Pengeluaran di sini banyak macamnya, nabung dan investasi pun termasuk pengeluar
 
 Pemasukan juga banyak macamnya, tapi di sini gue ambil dari gaji utama gue.
 Pengeluaran pun mostly ke perilaku konsumtif pangan, entertainment dan self-improvement.
-Gue sekarang sejujurnya belum ada rencana buat melakukan investasi, karena gue rasa dan yakin investasi yang worth untuk gue saat ini yaitu investasi ke siri sendiri alias self-impovement.
+Gue sekarang sejujurnya belum ada rencana buat melakukan investasi, karena gue rasa dan yakin investasi yang worth untuk gue saat ini yaitu investasi ke diri sendiri alias self-impovement.
