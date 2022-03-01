@@ -6,7 +6,7 @@ draft: false
 summary: ...setidaknya lebih pintar...
 images: []
 layout: PostLayout
-----
+---
 
 Gue tipe orang yang konsumtif, dan gue rasa hampir semua orang juga konsumtif. 
 Bedanya, ada yang melakukan kegiatan konsumsi karena memang benar-benar butuh dan yang engga butuh-butuh banget.
