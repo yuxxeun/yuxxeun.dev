@@ -11,7 +11,7 @@ layout: PostLayout
 Gue tipe orang yang konsumtif, dan gue rasa hampir semua orang juga konsumtif. 
 Bedanya, ada yang melakukan kegiatan konsumsi karena memang benar-benar butuh dan yang engga butuh-butuh banget.
 
-Konsumsi, less produktif, at least worth.
+Konsumtif, less produktif, at least worth.
 
 Prinsip gue dalam mengkonsumsi sesuatu adalah tentang hasil yang gue dapat dari proses konsumsi tersebut.
 Singkatnya, minimal konsumtif harus berbanding lurus dengan produktif. Gue engga akan ngomongin tentang kesehatan, karena gue bukan tipe orang yang sehat-sehat banget.
@@ -23,22 +23,22 @@ Well, selama gue produktif gue akan memaafkan diri gue yang konsumtif ini.
 
 ## Cashback
 Gue bukan tipe orang yang gila cashback, tapi akhir-akhir ini enjoy menggunakan cashback, intinya cashback gue anggap sebagai "thank you" dari suatu layanan karena telah menggunakan layanan tersebut.
-Ambil contoh kalau gue menggunakan go-pay dan mendapatkan cashback sebesar 20% bila gue menggunakan aplikasi go-pay, gopay ngasih gue 10 ribu sebagai tanda terima kasih karena gue telah menggunakan aplikasi mereka untuk ber-transaksi sekitar 50 ribu.
+Ambil contoh kalau gue menggunakan go-pay dan mendapatkan cashback sebesar ~20% bila gue menggunakan aplikasi go-pay, go-pay ngasih gue 10 ribu sebagai tanda terima kasih karena gue telah menggunakan aplikasi mereka untuk ber-transaksi sekitar 50 ribu.
 
 Cashback bukanlah hal yang permanent, namun selagi ada program cashback ya kenapa engga dinikmati?
 
 ## Health?
 Oke-oke gue cuman membicarakan tentang output belum tentang efek. 
-Dan inilah alasan mengapa gue memilih menggunakan kata pintar daripada cerdas, kalau lo cerdas lo pasti mempertimbangkan bebrapa hal juga, sebagai contoh: faktor kesehatan, ekonomi dunia ketiga dan sebagainya.
+Dan inilah alasan mengapa gue memilih menggunakan kata pintar daripada cerdas, kalau lo cerdas lo pasti mempertimbangkan beberapa hal juga, sebagai contoh: faktor kesehatan, ekonomi negara dunia ketiga dan sebagainya.
 
 Oke-oke berlebihan ya, mari kita persingkat ke kesehatan.
 
 Meskipun kopi seharga 50 ribu kita anggap worth dengan 2 tulisan baru dan 5 task resolved, namun apakah efek yang ada di dalam kopi tersebut worth terhadap diri lo?
 Misal, efek kafein, gula dan sebagianya.
 
-*Percuma* ㅡ sengaja gue tekankan.
+**Percuma** ㅡ sengaja gue tekankan.
 
-Misal apa yang kita hasilkan tersebut menyebabkan hal lain -jatuh sakit misalnya-, sejujurnya gue tidak terlalu peduli. Ingat, tidak terlalu bukan berarti tidak ya.
+Misal apa yang kita hasilkan tersebut menyebabkan hal lain ㅡjatuh sakit misalnyaㅡ, sejujurnya gue tidak terlalu peduli. Ingat, tidak terlalu bukan berarti tidak ya.
 
 Hampir setiap hari gue berurusan dengan hal tidak sehat, baik secara langsung seperti merokok ataupun tidak langsung terserah mau lo namain apa.
 Jadi, untuk apa membicarakan buruknya neraka jika kita sedang tinggal di dalamnya?
